@@ -1,1 +1,15 @@
+# Core project dependencies.
+# Confirm exact versions against the final successful notebook environment
+# before claiming bit-for-bit reproducibility.
+numpy
+pandas
+scikit-learn
+scipy
+matplotlib
+seaborn
+lightgbm
+xgboost
+catboost
+jupyter
+ipykernel
 
